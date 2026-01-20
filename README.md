@@ -1,0 +1,1 @@
+Source for the JetBrains [Zenbones Dark Theme Plugin](https://plugins.jetbrains.com/plugin/29833-zenbones-dark?noRedirect=true), ported from [rpbritton's VSCode theme](https://github.com/rpbritton/zenbones.vscode)
