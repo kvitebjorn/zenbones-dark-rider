@@ -1,26 +1,22 @@
 <idea-plugin>
   <id>com.github.kvitebjorn.zenbones-dark</id>
   <name>Zenbones Dark</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <vendor email="harintonkairu@gmail.com" url="https://github.com/kvitebjorn/zenbones-dark-rider">Kyle Harrington</vendor>
 
   <description><![CDATA[
     <p>A warm, low-contrast dark theme based on the Zenbones color palette.</p>
-    <p>Features muted colors with subtle contrast for comfortable extended coding sessions.</p>
-
-    <img src="https://raw.githubusercontent.com/kvitebjorn/zenbones-dark-rider/main/Zenbones-dark-screenshot-csharp.png" alt="Zenbones Dark theme screenshot" width="600"/>
-    <ul>
-      <li>Low contrast, easy on the eyes</li>
-      <li>Warm color palette</li>
-      <li>Full IDE theming (UI + editor)</li>
-    </ul>
 
     <h3>Credits</h3>
     <p>Based on the <a href="https://github.com/zenbones-theme/zenbones.nvim">Zenbones</a> color scheme for Neovim.</p>
-    <p>Color palette derived from <a href="https://marketplace.visualstudio.com/items?itemName=rpbritton.zenbones-themes">Zenbones Themes</a> for VS Code by <a href="https://github.com/rpbritton">rpbritton</a>.</p>
+    <p>Color palette ported from <a href="https://marketplace.visualstudio.com/items?itemName=rpbritton.zenbones">Zenbones Themes</a> for VS Code by <a href="https://github.com/rpbritton">rpbritton</a>.</p>
   ]]></description>
 
   <change-notes><![CDATA[
+    <h3>1.0.1</h3>
+    <ul>
+      <li>Fixed C# string interpolation colors</li>
+    </ul>
     <h3>1.0.0</h3>
     <ul>
       <li>Initial release</li>

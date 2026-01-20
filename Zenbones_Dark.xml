@@ -815,7 +815,11 @@
         <option name="FOREGROUND" value="a1938c" />
       </value>
     </option>
-
+    <option name="ReSharper.CSHARP_FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="979fa4" />
+      </value>
+    </option>
     <!-- XML/HTML -->
     <option name="HTML_TAG_NAME">
       <value>
